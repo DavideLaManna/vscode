@@ -1,0 +1,247 @@
+{
+  "0": {
+    "title": "D1022S - D1022D",
+    "text": "",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      -1
+    ]
+  },
+  "1": {
+    "title": "INSTRUCTION MANUAL",
+    "text": "Loop Powered Current Repeater \nDIN-Rail Models D1022S, D1022D \n",
+    "tables": [],
+    "subsections": [
+      24,
+      23,
+      22,
+      21,
+      20,
+      18,
+      17,
+      16,
+      12,
+      3,
+      2
+    ],
+    "supersections": [
+      -1
+    ]
+  },
+  "2": {
+    "title": "Characteristics",
+    "text": "General Description: The D1022S or D1022D is a loop-powered single or dual channel isolated current repeater. It can be used to interface transmitter, to drive I/P converter, fire and \nsmoke detectors or similar switched resistor systems, located in Hazardous Area, requiring a wide output current range (from 1 to 40 mA) to operate properly. When drive I/P converter, \npositioner, display a current source is connected to the input terminals, while interfacing transmitter or fire and smoke detector a voltage source with current readback can be \nconnected. The transmitter current is sinked from the input terminals operating as a transparent interface. For fire and smoke detector, the triggering of a detector causes a \ncorresponding change in the Safe Area circuit current. A field open circuit reflects a high impedance to the control device circuit. \nThe unit has reverse input polarity protection and \u2264 1 % accuracy. \nFunction: 1 or 2 channels I.S. analog current repeater for transmitters, I/P converter or fire-smoke detectors providing input-output isolation. \nEMC: Fully compliant with CE marking applicable requirements. \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "3": {
+    "title": "Technical Data",
+    "text": "S upply: No supply voltage required because loop-powered. \nPower dissipation: \u2264 1.1 W per channel at 40 mA, 30 V loop supply. \nIsolation (Test Voltage): I.S. Out/In 1.5 KV; I.S. Out/I.S. Out 500 V; In/In 500 V. \n\nOutput Signal to Hazardous Area:\nOutput: 1 to 40 mA. \nOutput characteristic (typical): \nVout = (Vin - 1.5) - (0.4 x Iout) for 6 V < Vin < 23 V. \nVout = 22 - (0.4 x Iout) for 23 V < Vin < 30 V. \n4-20 mA output on load of 100 to 600 \u2126; Accuracy \u2264 1 %. \nResponse time: 50 ms (10 to 90 % step change). \n\n\nInput Signal to Safe Area:\nOperating voltage range: 6 to 30 V (loop powered). \nInput current: 1 to 40 mA (loop powered). \nVoltage drop-out: 9.5 V at 20 mA and with 500 \u2126 load. \nOpen circuit consumption: \u2264 0.4 mA at 20 V. \n\n\nPerformance:\nReference ambient temperature conditions: 23 \u00b1 1 \u00b0C. \nCurrent transfer error: \u2264 400 \u00b5A (6 V <Vin< 23 V; 1 mA <Iout< 40 mA). \nTemperature influence: \u2264 \u00b1 0.01 % for a 1 \u00b0C change. \n\n\nCompatibility:\nCE mark compliant, conforms to Directive: \n2014/34/EU ATEX, 2014/30/EU EMC, 2014/35/EU LVD, 2011/65/EU RoHS. \n\n\nEnvironmental conditions:\nOperating: temperature limits -20 to + 60 \u00b0C, \nrelative humidity max 90 % non condensing, up to 35 \u00b0C. \nStorage: temperature limits \u2013 45 to + 80 \u00b0C. \n\n\nSafety Description:\nATEX: II (1)G [Ex ia Ga] IIC, II (1)D [Ex ia Da] IIIC, I (M1) [Ex ia Ma] I; II 3G Ex ec IIC T4 Gc \nIECEx: [Ex ia Ga] IIC, [Ex ia Da] IIIC, [Ex ia Ma] I; Ex ec IIC T4 Gc \nINMETRO: [Ex ia Ga] IIC, [Ex ia Da] IIIC, [Ex ia Ma] I \nUo/Voc = 25.2 V, Io/Isc = 93 mA, Po/Po = 581 mW at terminals 13-14, 15-16. \nUm = 250 Vrms, -20 \u00b0C \u2264 Ta \u2264 60 \u00b0C. \n\n\nApprovals:\nDMT 01 ATEX E 042 X conforms to EN60079-0, EN60079-11. \nIECEx BVS 07.0027X conforms to IEC60079-0, IEC60079-11. \nIMQ 09 ATEX 013 X conforms to EN60079-0, EN60079-7. \nIECEx IMQ 13.0011X conforms to IEC60079-0, IEC60079-7. \nINMETRO DNV 13.0108 X conforms to ABNT NBR IEC60079-0, ABNT NBR IEC60079-11. \nFM & FM-C No. 3024643, 3029921C, conforms to Class 3600, 3610, 3611, 3810 and \nC22.2 No.142, C22.2 No.157, C22.2 No.213, E60079-0, E60079-11, E60079-15, \n\u0415\u0410\u042d\u0421 RU \u0421-IT.HA67.B.00113/20 conforms to GOST 31610.0, GOST 31610.11, GOST 31610.15. \nC\u0426 16.0034 X conforms to \u0414\u0421\u0422\u0423 7113, \u0413\u041e\u0421\u0422 22782.5-78, \u0414\u0421\u0422\u0423 I\u0415\u0421 60079-15. \nDNV No. TAA00002BM and KR No.MIL20769-EL001 Cert. for maritime applications. \n\n\nMounting:\nEN/IEC60715 TH 35 DIN-Rail. \nWeight: about 125 g D1022D, 110 g D1022S. \nConnection: by polarized plug-in disconnect screw terminal blocks to accomodate terminations up to 2.5 mm2. \nLocation: Safe Area/Non Hazardous Locations or Zone 2, Group IIC T4, \nClass I, Division 2, Groups A, B, C, D Temperature Code T4 and Class I, Zone 2, Group IIC, IIB, IIA T4 installation. \nProtection class: IP 20. \nDimensions: Width 22.5 mm, Depth 99 mm, Height 114.5 mm. \n\n\n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "12": {
+    "title": "Ordering information",
+    "text": "\nModel: D1022\n\n\n1 channel\n\n\nS \nD\n\n\n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "16": {
+    "title": "Front Panel and Features",
+    "text": "\uf0b7\uf020Output to Zone 0 (Zone 20), Division 1, installation in Zone 2, Division 2. \n\uf0b7\uf020Wide operating current range from 1 to 40 mA. \n\uf0b7\uf020Field open circuit detection. \n\uf0b7\uf020Input/Output isolation. \n\uf0b7\uf020EMC Compatibility to EN61000-6-2, EN61000-6-4. \n\uf0b7\uf020ATEX, IECEx, FM & FM-C, INMETRO, EAC-EX, UKR TR n. 898 Certifications. \n\uf0b7\uf020Type Approval Certificate DNV and KR for marine applications. \n\uf0b7\uf020High Reliability, SMD components. \n\uf0b7\uf020High Density, two channels per unit. \n\uf0b7\uf020Simplified installation using standard DIN Rail and plug-in terminal blocks. \n\uf0b7\uf020250 Vrms (Um) max. voltage allowed to the instruments associated with the barrier. \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "17": {
+    "title": "Terminal block connections",
+    "text": "",
+    "tables": [
+      {
+        "columns": [
+          "",
+          "HAZARDOUS AREA"
+        ],
+        "data": [
+          [
+            "13",
+            "+ Output Ch 1 for Fire / Smoke Detectors or + Output Ch 1 for 2 Wire Transmitters or + Output Ch 1 for I/P Converter"
+          ],
+          [
+            "14",
+            "- Output Ch 1 for Fire / Smoke Detectors or - Output Ch 1 for 2 Wire Transmitters or - Output Ch 1 for I/P Converter"
+          ],
+          [
+            "15",
+            "+ Output Ch 2 for Fire / Smoke Detectors or + Output Ch 2 for 2 Wire Transmitters or + Output Ch 2 for I/P Converter"
+          ],
+          [
+            "16",
+            "- Output Ch 2 for Fire / Smoke Detectors or - Output Ch 2 for 2 Wire Transmitters or - Output Ch 1 for I/P Converter"
+          ]
+        ]
+      },
+      {
+        "columns": [
+          "",
+          "SAFE AREA"
+        ],
+        "data": [
+          [
+            "1",
+            "+ Input Ch 1 for Current Source mode or + Input Ch 1 for Current Sink mode"
+          ],
+          [
+            "2",
+            "- Input Ch 1 for Current Source mode or - Input Ch 1 for Current Sink mode"
+          ],
+          [
+            "3",
+            "+ Input Ch 2 for Current Source mode or + Input Ch 2 for Current Sink mode"
+          ],
+          [
+            "4",
+            "- Input Ch 2 for Current Source mode or - Input Ch 2 for Current Sink mode"
+          ]
+        ]
+      }
+    ],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "18": {
+    "title": "Parameters Table",
+    "text": "In the system safety analysis, always check the Hazardous Area/Hazardous Locations devices to conform with the related system documentation, if the device is Intrinsically Safe check \nits suitability for the Hazardous Area/Hazardous Locations and gas group encountered and that its maximum allowable voltage, current, power (Ui/Vmax, Ii/Imax, Pi/Pi) are not exceeded \nby the safety parameters (Uo/Voc, Io/Isc, Po/Po) of the D1022 series Associated Apparatus connected to it. Also consider the maximum operating temperature of the field device, check \nthat added connecting cable and field device capacitance and inductance do not exceed the limits (Co/Ca, Lo/La, Lo/Ro) given in the Associated Apparatus parameters for the effective \ngas group. See parameters on enclosure side and the ones indicated in the table below: \n\nNOTE for USA and Canada:\nIIC equal to Gas Groups A, B, C, D, E, F and G \nIIB equal to Gas Groups C, D, E, F and G \nIIA equal to Gas Groups D, E, F and G \nFor installations in which both the Ci and Li of the Intrinsically Safe apparatus exceed 1% of the Co and Lo parameters of the Associated Apparatus (excluding the cable), \nthen 50% of Co and Lo parameters are applicable and shall not be exceeded (50% of the Co and Lo become the limits which must include the cable such that Ci device + C cable \u2264 \n50 % of Co and Li device + L cable \u2264 50 % of Lo). The reduced capacitance of the external circuit (including cable) shall not be greater than 1 \u03bcF for Groups I, IIA, IIB and 600 nF for \nGroup IIC. If the cable parameters are unknown, the following value may be used: Capacitance 200 pF per meter (60 pF per foot), Inductance 1 \u00b5H per meter (0.20 \u00b5H per foot). \nThe Intrinsic Safety Entity Concept allows the interconnection of Intrinsically Safe devices approved with entity parameters not specifically examined in combination as a system \nwhen the above conditions are respected. \nFor Division 1 and Zone 0 installations, the configuration of Intrinsically Safe Equipment must be FM approved under Entity Concept (or third party approved); \nfor Division 2 installations, the configuration of Intrinsically Safe Equipment must be FM approved under non-incendive field wiring or Entity Concept (or third party approved). \n\n\n",
+    "tables": [
+      {
+        "columns": [
+          "D1022 Terminals",
+          "D1022 Associated\nApparatus Parameters",
+          "Must\nbe",
+          "Hazardous Area/\nHazardous Locations\nDevice Parameters"
+        ],
+        "data": [
+          [
+            "Ch1 13 - 14\nCh2 15 - 16",
+            "Uo / Voc = 25.2 V",
+            "\u2264",
+            "Ui / Vmax"
+          ],
+          [
+            "Ch1 13 - 14\nCh2 15 - 16",
+            "Io / Isc = 93 mA",
+            "\u2264",
+            "Ii/ Imax"
+          ],
+          [
+            "Ch1 13 - 14\nCh2 15 - 16",
+            "Po / Po = 581 mW",
+            "\u2264",
+            "Ii/ Imax"
+          ]
+        ]
+      },
+      {
+        "columns": [
+          "D1022 Terminals",
+          "D1022 Associated\nApparatus Parameters",
+          "Must\nbe",
+          "Hazardous Area/\nHazardous Locations\nDevice + Cable Parameter"
+        ],
+        "data": [
+          [
+            "Ch1 13 - 14\nCh2 15 - 16",
+            "Co / Ca = 107 nF (IIC-A, B)\nCo / Ca = 820 nF (IIB-C)\nCo / Ca = 2.9 \u00b5F (IIA-D)",
+            "\u2265",
+            "Ci / Ci device + C cable"
+          ],
+          [
+            "Ch1 13 - 14\nCh2 15 - 16",
+            "Lo / La = 4.1 mH (IIC-A, B)\nLo / La = 16.4 mH (IIB-C)\nLo / La = 32.8 mH (IIA-D)",
+            "\u2265",
+            "Li / Li device + L cable"
+          ],
+          [
+            "Ch1 13 - 14\nCh2 15 - 16",
+            "Lo / Ro = 61.2 \u00b5H/\u2126 (IIC-A, B)\nLo / Ro = 244.9 \u00b5H/\u2126 (IIB-C)\nLo / Ro = 489.8 \u00b5H/\u2126 (IIA-D)",
+            "\u2265",
+            "Li / Ri device and\nL cable / R cable"
+          ]
+        ]
+      }
+    ],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "20": {
+    "title": "Function Diagram",
+    "text": "HAZARDOUS AREA ZONE 0 (ZONE 20) GROUP IIC, \nSAFE AREA, ZONE 2 GROUP IIC T4, \nHAZARDOUS LOCATIONS CLASS I, DIVISION 1, GROUPS A, B, C, D, \nNON HAZARDOUS LOCATIONS, CLASS I, DIVISION 2, \nCLASS II, DIVISION 1, GROUPS E, F, G, CLASS III, DIVISION 1, \nGROUPS A, B, C, D T-Code T4, CLASS I, ZONE 2, GROUP IIC T4 \nCLASS I, ZONE 0, GROUP IIC \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "21": {
+    "title": "Warning",
+    "text": "D1022 series are isolated Intrinsically Safe Associated Apparatus installed into standard EN/IEC60715 TH 35 DIN-Rail located in Safe Area/ Non Hazardous Locations or Zone 2, Group \nIIC, Temperature Classification T4, Class I, Division 2, Groups A, B, C, D, Temperature Code T4 and Class I, Zone 2, Group IIC, IIB, IIA Temperature Code T4 Hazardous Area/ \nHazardous Locations (according to FM Class No. 3611, CSA-C22.2 No. 213-M1987, CSA-E60079-15) within the specified operating temperature limits Tamb -20 to +60 \u00b0C, and connect- \ned to equipment with a maximum limit for AC power supply Um of 250 Vrms. \nNon-incendive field wiring is not recognized by the Canadian Electrical Code, installation is permitted in the US only. For installation of the unit in a Class I, Division 2 or Class I, Zone 2 \nlocation, the wiring between the control equipment and the D1022 associated apparatus shall be accomplished via conduit connections or another acceptable Division 2, Zone 2 wiring \nmethod according to the NEC and the CEC. Not to be connected to control equipment that uses or generates more than 250 Vrms or Vdc with respect to earth ground. \nD1022 series must be installed, operated and maintained only by qualified personnel, in accordance to the relevant national/international installation standards \n(e.g. IEC/EN60079-14 Electrical apparatus for explosive gas atmospheres - Part 14: Electrical installations in hazardous areas (other than mines), BS 5345 Pt4, VDE 165, \nANSI/ISA RP12.06.01 Installation of Intrinsically Safe System for Hazardous (Classified) Locations, National Electrical Code NEC ANSI/NFPA 70 Section 504 and 505, \nCanadian Electrical Code CEC) following the established installation rules, particular care shall be given to segregation and clear identification of I.S. conductors from non I.S. ones. \nDe-energize power source (turn off power supply voltage) before plug or unplug the terminal blocks when installed in Hazardous Area/Hazardous Locations or unless area is known to \nbe nonhazardous. Warning: substitution of components may impair Intrinsic Safety and suitability for Division 2, Zone 2. Explosion Hazard: to prevent ignition of flammable \nor combustible atmospheres, disconnect power before servicing or unless area is known to be nonhazardous. Failure to properly installation or use of the equipment may risk to \ndamage the unit or severe personal injury. The unit cannot be repaired by the end user and must be returned to the manufacturer or his authorized representative. Any unauthorized \nmodification must be avoided. \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "22": {
+    "title": "Operation",
+    "text": "D 1022 is a loop powered isolated interface to be used with fire, smoke detectors or similar equipment located in Hazardous Area/Hazardous Locations. \nIt isolates and transfer the absorbed current in Hazardous Area/Hazardous Locations to the control device located in Safe Area/ Non Hazardous Locations. \nIt has a wide current range to interface several fire and smoke detector with a low drop out voltage from the controller. \nThe triggering of a detector causes a corresponding current change in the Safe Area/Non Hazardous Locations circuit allowing the controller to monitor the signal. \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "23": {
+    "title": "Installation",
+    "text": "D 1022 series are loop powered current repeater housed in a plastic enclosure suitable for installation on EN/IEC60715 TH 35 DIN-Rail. D1022 unit can be mounted with \nany orientation over the entire ambient temperature range, see section \u201cInstallation in Cabinet\u201d and \"Installation of Electronic Equipments in Cabinet\" Instruction Manual D1000 series for \ndetailed instructions. Electrical connection of conductors up to 2.5 mm\u00b2 are accommodated by polarized plug-in removable screw terminal blocks which can be plugged in/out into a \npowered unit without suffering or causing any damage (for Zone 2 or Division 2 installations check the area to be nonhazardous before servicing). \nThe wiring cables have to be proportionate in base to the current and the length of the cable. \nOn the section \u201cFunction Diagram\u201d and enclosure side a block diagram identifies all connections. \nIdentify the number of channels of the specific card (e.g. D1022S is a single channel model and D1022D is a dual channel model), the function and location of each connection terminal \nusing the wiring diagram on the corresponding section, as an example: \nFor Model D1022S connect positive controller input of channel 1 at terminal \u201c1\u201d and negative at \u201c2\u201d. \nFor Model D1022D in addition to channel 1 connections above, connect positive input of channel 2 at terminal \u201c3\u201d and negative input at \u201c4\u201d. \nFor Model D1022S connect fire/smoke detector at terminal \u201c13\u201d for positive and \u201c14\u201d for negative. \nFor Model D1022D in addition to channel 1 connections above, connect terminal \u201c15\u201d for positive and \u201c16\u201d for negative on channel 2. \nIntrinsically Safe conductors must be identified and segregated from non I.S. and wired in accordance to the relevant national/international installation standards \n(e.g. EN/IEC60079-14 Electrical apparatus for explosive gas atmospheres - Part 14: Electrical installations in hazardous areas (other than mines), BS 5345 Pt4, VDE 165, \nANSI/ISA RP12.06.01 Installation of Intrinsically Safe System for Hazardous (Classified) Locations, National Electrical Code NEC ANSI/NFPA 70 Section 504 and 505, \nCanadian Electrical Code CEC), make sure that conductors are well isolated from each other and do not produce any unintentional connection. The enclosure provides, according to EN/ \nIEC 60529, an IP20 minimum degree of protection. The equipment shall only be used in an area of at least pollution degree 2, as defined in EN/IEC 60664-1. For hazardous location, the \nunit shall be installed in an enclosure that provides a minimum ingress protection of IP54 in accordance with EN/IEC 60079-0, that must have a door or cover accessible only by the use \nof a tool. Units must be protected against dirt, \ndust, extreme mechanical (e.g. vibration, impact and shock) and thermal stress, and casual contacts. If enclosure needs to be cleaned use only a cloth lightly moistened by a mixture of \ndetergent in water. Electrostatic Hazard: to avoid electrostatic hazard, the enclosure of D1022 must be cleaned only with a damp or antistatic cloth. \nAny penetration of cleaning liquid must be avoided to prevent damage to the unit. Any unauthorized card modification must be avoided. \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "24": {
+    "title": "Start-up",
+    "text": "Before powering the unit check that all wires are properly connected, particularly their polarity, input and output wires, also check that Intrinsically Safe conductors and cable trays are \nsegregated (no direct contacts with other non I.S. conductors) and identified either by color coding, preferably blue, or by marking. Check conductors for exposed wires that could touch \neach other causing dangerous unwanted shorts. Turn on signal controller, output signal should be corresponding to the input from the fire/smoke detector status. \nIf possible change the fire/smoke detector condition and check the corresponding signal versus Safe Area controller. \n",
+    "tables": [],
+    "subsections": [],
+    "supersections": [
+      1
+    ]
+  },
+  "-1": {
+    "title": "root",
+    "text": "",
+    "tables": [],
+    "subsections": [
+      1,
+      0
+    ],
+    "supersections": []
+  }
+}
